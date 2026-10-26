@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#0b111e"/>
+  <path d="M16 4L6 8V15C6 21.5 10.3 27.5 16 29C21.7 27.5 26 21.5 26 15V8L16 4Z" fill="url(#tealGrad)" stroke="#14b8a6" stroke-width="1.5"/>
+  <path d="M12 16L15 19L21 13" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <defs>
+    <linearGradient id="tealGrad" x1="6" y1="4" x2="26" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+</svg>
